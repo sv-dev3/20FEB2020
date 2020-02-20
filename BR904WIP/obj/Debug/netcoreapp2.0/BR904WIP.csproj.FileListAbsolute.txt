@@ -1,0 +1,11 @@
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\bin\Debug\netcoreapp2.0\BR904WIP.deps.json
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\bin\Debug\netcoreapp2.0\BR904WIP.runtimeconfig.json
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\bin\Debug\netcoreapp2.0\BR904WIP.runtimeconfig.dev.json
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\bin\Debug\netcoreapp2.0\BR904WIP.dll
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\bin\Debug\netcoreapp2.0\BR904WIP.pdb
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\obj\Debug\netcoreapp2.0\BR904WIP.csprojAssemblyReference.cache
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\obj\Debug\netcoreapp2.0\BR904WIP.csproj.CoreCompileInputs.cache
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\obj\Debug\netcoreapp2.0\BR904WIP.AssemblyInfoInputs.cache
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\obj\Debug\netcoreapp2.0\BR904WIP.AssemblyInfo.cs
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\obj\Debug\netcoreapp2.0\BR904WIP.dll
+E:\Chandan Projects\2020\Clients\Dong\17-FEB\904 API\BR904WIP\BR904WIP\obj\Debug\netcoreapp2.0\BR904WIP.pdb
